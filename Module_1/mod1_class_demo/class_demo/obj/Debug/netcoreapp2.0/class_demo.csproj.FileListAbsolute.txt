@@ -1,0 +1,11 @@
+C:\Users\Sreenath\source\repos\csharpEDxcourses\Module_1\mod1_class_demo\class_demo\bin\Debug\netcoreapp2.0\class_demo.deps.json
+C:\Users\Sreenath\source\repos\csharpEDxcourses\Module_1\mod1_class_demo\class_demo\bin\Debug\netcoreapp2.0\class_demo.runtimeconfig.json
+C:\Users\Sreenath\source\repos\csharpEDxcourses\Module_1\mod1_class_demo\class_demo\bin\Debug\netcoreapp2.0\class_demo.runtimeconfig.dev.json
+C:\Users\Sreenath\source\repos\csharpEDxcourses\Module_1\mod1_class_demo\class_demo\bin\Debug\netcoreapp2.0\class_demo.dll
+C:\Users\Sreenath\source\repos\csharpEDxcourses\Module_1\mod1_class_demo\class_demo\bin\Debug\netcoreapp2.0\class_demo.pdb
+C:\Users\Sreenath\source\repos\csharpEDxcourses\Module_1\mod1_class_demo\class_demo\obj\Debug\netcoreapp2.0\class_demo.csprojAssemblyReference.cache
+C:\Users\Sreenath\source\repos\csharpEDxcourses\Module_1\mod1_class_demo\class_demo\obj\Debug\netcoreapp2.0\class_demo.csproj.CoreCompileInputs.cache
+C:\Users\Sreenath\source\repos\csharpEDxcourses\Module_1\mod1_class_demo\class_demo\obj\Debug\netcoreapp2.0\class_demo.AssemblyInfoInputs.cache
+C:\Users\Sreenath\source\repos\csharpEDxcourses\Module_1\mod1_class_demo\class_demo\obj\Debug\netcoreapp2.0\class_demo.AssemblyInfo.cs
+C:\Users\Sreenath\source\repos\csharpEDxcourses\Module_1\mod1_class_demo\class_demo\obj\Debug\netcoreapp2.0\class_demo.dll
+C:\Users\Sreenath\source\repos\csharpEDxcourses\Module_1\mod1_class_demo\class_demo\obj\Debug\netcoreapp2.0\class_demo.pdb
