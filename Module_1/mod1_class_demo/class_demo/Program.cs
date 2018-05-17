@@ -6,10 +6,13 @@ namespace class_demo
     {
         static void Main(string[] args)
         {
-            DrinksMachine myMachine = new DrinksMachine();
-            myMachine._location = "Kitchen";
-            myMachine._model = "DM1000";
-            Console.WriteLine(myMachine._location);
+            DrinksMachine myMachine = new DrinksMachine("Kitchen","Brand", "DM1000");
+            //myMachine.Location = "Kitchen";
+            //myMachine.Model = "DM1000";
+            Console.WriteLine(myMachine.Location);
+            Console.WriteLine(myMachine.Make);
+            Console.WriteLine(myMachine.Model);
+
             myMachine.MakeCappuccino();
         }
     }
