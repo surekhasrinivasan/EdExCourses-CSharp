@@ -1,0 +1,11 @@
+C:\Users\Sreenath\source\repos\csharpEDxcourses\Module_1\Mod1_Assignment1\Mod1_Assignment1\bin\Debug\netcoreapp2.0\Mod1_Assignment1.deps.json
+C:\Users\Sreenath\source\repos\csharpEDxcourses\Module_1\Mod1_Assignment1\Mod1_Assignment1\bin\Debug\netcoreapp2.0\Mod1_Assignment1.runtimeconfig.json
+C:\Users\Sreenath\source\repos\csharpEDxcourses\Module_1\Mod1_Assignment1\Mod1_Assignment1\bin\Debug\netcoreapp2.0\Mod1_Assignment1.runtimeconfig.dev.json
+C:\Users\Sreenath\source\repos\csharpEDxcourses\Module_1\Mod1_Assignment1\Mod1_Assignment1\bin\Debug\netcoreapp2.0\Mod1_Assignment1.dll
+C:\Users\Sreenath\source\repos\csharpEDxcourses\Module_1\Mod1_Assignment1\Mod1_Assignment1\bin\Debug\netcoreapp2.0\Mod1_Assignment1.pdb
+C:\Users\Sreenath\source\repos\csharpEDxcourses\Module_1\Mod1_Assignment1\Mod1_Assignment1\obj\Debug\netcoreapp2.0\Mod1_Assignment1.csprojAssemblyReference.cache
+C:\Users\Sreenath\source\repos\csharpEDxcourses\Module_1\Mod1_Assignment1\Mod1_Assignment1\obj\Debug\netcoreapp2.0\Mod1_Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\Sreenath\source\repos\csharpEDxcourses\Module_1\Mod1_Assignment1\Mod1_Assignment1\obj\Debug\netcoreapp2.0\Mod1_Assignment1.AssemblyInfoInputs.cache
+C:\Users\Sreenath\source\repos\csharpEDxcourses\Module_1\Mod1_Assignment1\Mod1_Assignment1\obj\Debug\netcoreapp2.0\Mod1_Assignment1.AssemblyInfo.cs
+C:\Users\Sreenath\source\repos\csharpEDxcourses\Module_1\Mod1_Assignment1\Mod1_Assignment1\obj\Debug\netcoreapp2.0\Mod1_Assignment1.dll
+C:\Users\Sreenath\source\repos\csharpEDxcourses\Module_1\Mod1_Assignment1\Mod1_Assignment1\obj\Debug\netcoreapp2.0\Mod1_Assignment1.pdb
