@@ -1,0 +1,11 @@
+C:\Users\Sreenath\source\repos\csharpEDxcourses\Module_2\Mod2_AnonymousClassDemo\Mod2_AnonymousClassDemo\bin\Debug\netcoreapp2.0\Mod2_AnonymousClassDemo.deps.json
+C:\Users\Sreenath\source\repos\csharpEDxcourses\Module_2\Mod2_AnonymousClassDemo\Mod2_AnonymousClassDemo\bin\Debug\netcoreapp2.0\Mod2_AnonymousClassDemo.runtimeconfig.json
+C:\Users\Sreenath\source\repos\csharpEDxcourses\Module_2\Mod2_AnonymousClassDemo\Mod2_AnonymousClassDemo\bin\Debug\netcoreapp2.0\Mod2_AnonymousClassDemo.runtimeconfig.dev.json
+C:\Users\Sreenath\source\repos\csharpEDxcourses\Module_2\Mod2_AnonymousClassDemo\Mod2_AnonymousClassDemo\bin\Debug\netcoreapp2.0\Mod2_AnonymousClassDemo.dll
+C:\Users\Sreenath\source\repos\csharpEDxcourses\Module_2\Mod2_AnonymousClassDemo\Mod2_AnonymousClassDemo\bin\Debug\netcoreapp2.0\Mod2_AnonymousClassDemo.pdb
+C:\Users\Sreenath\source\repos\csharpEDxcourses\Module_2\Mod2_AnonymousClassDemo\Mod2_AnonymousClassDemo\obj\Debug\netcoreapp2.0\Mod2_AnonymousClassDemo.csprojAssemblyReference.cache
+C:\Users\Sreenath\source\repos\csharpEDxcourses\Module_2\Mod2_AnonymousClassDemo\Mod2_AnonymousClassDemo\obj\Debug\netcoreapp2.0\Mod2_AnonymousClassDemo.csproj.CoreCompileInputs.cache
+C:\Users\Sreenath\source\repos\csharpEDxcourses\Module_2\Mod2_AnonymousClassDemo\Mod2_AnonymousClassDemo\obj\Debug\netcoreapp2.0\Mod2_AnonymousClassDemo.AssemblyInfoInputs.cache
+C:\Users\Sreenath\source\repos\csharpEDxcourses\Module_2\Mod2_AnonymousClassDemo\Mod2_AnonymousClassDemo\obj\Debug\netcoreapp2.0\Mod2_AnonymousClassDemo.AssemblyInfo.cs
+C:\Users\Sreenath\source\repos\csharpEDxcourses\Module_2\Mod2_AnonymousClassDemo\Mod2_AnonymousClassDemo\obj\Debug\netcoreapp2.0\Mod2_AnonymousClassDemo.dll
+C:\Users\Sreenath\source\repos\csharpEDxcourses\Module_2\Mod2_AnonymousClassDemo\Mod2_AnonymousClassDemo\obj\Debug\netcoreapp2.0\Mod2_AnonymousClassDemo.pdb
