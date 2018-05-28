@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sreenath\\source\\repos\\csharpEDxcourses\\Module_2\\InheritanceDemo\\InheritanceDemo\\InheritanceDemo.csproj",
+      "projectUniqueName": "C:\\Users\\Sreenath\\source\\repos\\csharpEDxcourses\\Module_2\\Mod2_InheritanceDemo\\InheritanceDemo\\InheritanceDemo.csproj",
       "projectName": "InheritanceDemo",
-      "projectPath": "C:\\Users\\Sreenath\\source\\repos\\csharpEDxcourses\\Module_2\\InheritanceDemo\\InheritanceDemo\\InheritanceDemo.csproj",
+      "projectPath": "C:\\Users\\Sreenath\\source\\repos\\csharpEDxcourses\\Module_2\\Mod2_InheritanceDemo\\InheritanceDemo\\InheritanceDemo.csproj",
       "packagesPath": "C:\\Users\\Sreenath\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sreenath\\source\\repos\\csharpEDxcourses\\Module_2\\InheritanceDemo\\InheritanceDemo\\obj\\",
+      "outputPath": "C:\\Users\\Sreenath\\source\\repos\\csharpEDxcourses\\Module_2\\Mod2_InheritanceDemo\\InheritanceDemo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
