@@ -11,9 +11,12 @@ namespace Mod2_Lab1
         static void Main(string[] args)
         {
             // Instantiates Employee Object with name Libby and salary 2000 called employee1
-            var employee1 = new Employee("Libby", 2000);
+            //var employee1 = new Employee("Libby", 2000);
+            var employee1 = new TechnicalEmployee("Libby");
+
             // Instantiates TechnicalEmployee Object with name Zaynah called employee2
             var employee2 = new TechnicalEmployee("Zaynah");
+
             // Instantiates BusinessEmployee Object with name Winter called employee3
             var employee3 = new BusinessEmployee("Winter");
 
