@@ -6,18 +6,19 @@ namespace Mod1_Assignment1
 {
     public class UProgram
     {
-        Degree Degree1 { get; set; }
-
+        public Degree Degree1 { get; set; }
+        
         public string PName { get; set; }
+
+        public UProgram(String name, Degree degree1)
+        {
+            this.PName = name;
+            this.Degree1 = degree1;
+        }
 
         public UProgram()
         {
-            
-        }
 
-        public UProgram(Degree degree1)
-        {
-            this.Degree1 = degree1;
         }
     }
 }

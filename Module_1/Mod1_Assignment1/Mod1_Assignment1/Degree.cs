@@ -6,11 +6,13 @@ namespace Mod1_Assignment1
 {
     public class Degree
     {
-        Course Course1 { get; set; }
+        public Course Course1 { get; set; }
+        public String Name { get; set; }
 
-        public Degree(Course course1)
+        public Degree(Course course1, String name)
         {
             this.Course1 = course1;
+            this.Name = name;
         }
     }
 }
