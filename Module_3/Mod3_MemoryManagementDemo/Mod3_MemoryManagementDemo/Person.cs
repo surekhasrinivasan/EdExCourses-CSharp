@@ -7,7 +7,7 @@ using System.IO;
 
 namespace Mod3_MemoryManagementDemo
 {
-    class Person
+    class Person : IDisposable
     {
         public int PersonID { get; set; }
 
